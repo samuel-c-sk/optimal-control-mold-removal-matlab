@@ -1,0 +1,14 @@
+# MATLAB
+*.asv
+*.m~
+slprj/
+codegen/
+*.mex*
+*.slxc
+*.suo
+
+# macOS
+.DS_Store
+
+# Figures cache
+*.fig
