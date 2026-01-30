@@ -41,3 +41,5 @@ The repository compares **4 parameter sets** and visualizes:
 - `src/` – MATLAB implementation (BVP formulation + solver)
 - `figures/` – exported plots
 - `report/optimal_control_mold_report.pdf` – short report with model description and derivation
+
+Note: The accompanying report is written in Slovak; key ideas, methodology, and results are summarized in this README.
